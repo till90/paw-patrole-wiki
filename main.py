@@ -34,7 +34,7 @@ SERVICE_META = {
 # 1) DATA PATHS (ENV overridable)
 # ------------------------------------------------------------
 
-DEFAULT_DATA_JSON_PATH = "out_pawpatrol_characters/characters.json"
+DEFAULT_DATA_JSON_PATH = "out_pawpatrol_characters/characters_de.json"
 DEFAULT_DATA_BASE_DIR = "out_pawpatrol_characters"
 
 DATA_JSON_PATH = os.getenv("DATA_JSON_PATH", DEFAULT_DATA_JSON_PATH)
