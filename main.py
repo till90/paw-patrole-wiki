@@ -479,9 +479,9 @@ TEMPLATE = r"""
             <a role="menuitem" href="https://wms-wfs-sources.data-tales.dev/">WMS/WFS Server Viewer</a>
             <a role="menuitem" href="https://tree-locator.data-tales.dev/">Tree Locator</a>
             <a role="menuitem" href="https://plz.data-tales.dev/">PLZ → Koordinaten</a>
-            <a role="menuitem" href="https://paw-wiki.data-tales.dev/">Paw Patrole Wiki</a>
-            <a role="menuitem" href="https://paw-quiz.data-tales.dev/">Paw Patrole Quiz</a>
-            <a role="menuitem" href="https://hp-quiz.data-tales.dev/">Harry Potter Quiz</a>
+            <a role="menuitem" href="https://paw-wiki.data-tales.dev/">Paw Wiki</a>
+            <a role="menuitem" href="https://paw-quiz.data-tales.dev/">Paw Quiz</a>
+            <a role="menuitem" href="https://wizard-quiz.data-tales.dev/">Wizard Quiz</a>
             <a role="menuitem" href="https://worm-attack-3000.data-tales.dev/">Wurm Attacke 3000</a>
           </div>
       </div>
