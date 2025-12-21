@@ -169,6 +169,8 @@ TEMPLATE = r"""
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="theme-color" content="#0b0f19" />
+  <meta name="robots" content="noindex,nofollow"/>
+
   <title>{{ meta.page_title }}</title>
 
   <style>
@@ -205,7 +207,6 @@ TEMPLATE = r"""
   }
 
   *{box-sizing:border-box}
-  html,body{height:100%}
   body{
     margin:0;
     font-family:var(--font);
