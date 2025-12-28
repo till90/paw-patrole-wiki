@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+"""
+API:
+- GET /api/characters        -> Gibt eine Liste aller Charaktere zurück
+- GET /api/characters/<cid>  -> Gibt einen bestimmten Charakter anhand seiner ID zurück
+- GET /media/<path:relpath>  -> Dient zum Ausliefern von Mediendateien
+"""
 
 import json
 import os
