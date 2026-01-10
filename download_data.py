@@ -28,7 +28,7 @@ Deps:
   pip install requests beautifulsoup4
 """
 
-from __future__ import annotations
+
 
 import argparse
 import datetime as dt
